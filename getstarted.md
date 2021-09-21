@@ -15,7 +15,7 @@ by clicking the Fork button on the top right corner in GitHub.
 </div>
 
 
-<style>
+<div class="gs-section-01" markdown="1">
 
 .gs-section-01 h3 { 
      color: red }
@@ -24,4 +24,4 @@ by clicking the Fork button on the top right corner in GitHub.
      font-size: 30px;
 }
 
-</style>
+</div>
